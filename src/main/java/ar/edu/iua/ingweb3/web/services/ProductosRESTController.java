@@ -27,7 +27,7 @@ public class ProductosRESTController {
 	public ResponseEntity<List<Producto>> lista() {
 
 		
-
+//prueba branch
 		try {
 			return new ResponseEntity<List<Producto>>( productoBusiness.getAll(),HttpStatus.OK);
 		} catch (BusinessException e) {
