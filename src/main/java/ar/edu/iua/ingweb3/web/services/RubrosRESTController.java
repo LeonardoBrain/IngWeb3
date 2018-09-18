@@ -13,54 +13,54 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import ar.edu.iua.ingweb3.business.BusinessException;
-import ar.edu.iua.ingweb3.business.IProductoBusiness;
-import ar.edu.iua.ingweb3.model.Producto;
+import ar.edu.iua.ingweb3.business.IRubroBusiness;
+import ar.edu.iua.ingweb3.model.Rubro;
 import ar.edu.iua.ingweb3.model.exception.NotFoundException;
 
 @RestController
-@RequestMapping("/productos")
-public class ProductosRESTController {
+@RequestMapping("/rubros")
+public class RubrosRESTController {
 	
 	@Autowired
-	private IProductoBusiness productoBusiness;
+	private IRubroBusiness rubroBusiness;
 
 	@RequestMapping(value = { "", "/" }, method = RequestMethod.GET, produces = "application/json")
-	public ResponseEntity<List<Producto>> lista() {
+	public ResponseEntity<List<Rubro>> lista() {
 
 		
 
 		try {
-			return new ResponseEntity<List<Producto>>( productoBusiness.getAll(),HttpStatus.OK);
+			return new ResponseEntity<List<Rubro>>( rubroBusiness.getAll(),HttpStatus.OK);
 		} catch (BusinessException e) {
 			
-			return new ResponseEntity<List<Producto>>(HttpStatus.INTERNAL_SERVER_ERROR);
+			return new ResponseEntity<List<Rubro>>(HttpStatus.INTERNAL_SERVER_ERROR);
 			
 		}
 
 	}
 
 	@RequestMapping(value = { "/{id}" }, method = RequestMethod.GET, produces = "application/json")
-	public ResponseEntity<Producto> uno(@PathVariable("id") int id) {
+	public ResponseEntity<Rubro> uno(@PathVariable("id") int id) {
 
 		try {
-			return new ResponseEntity<Producto>( productoBusiness.getOne(id),HttpStatus.OK);
+			return new ResponseEntity<Rubro>( rubroBusiness.getOne(id),HttpStatus.OK);
 			
 		} catch (BusinessException e) {
-			return new ResponseEntity<Producto>(HttpStatus.INTERNAL_SERVER_ERROR);
+			return new ResponseEntity<Rubro>(HttpStatus.INTERNAL_SERVER_ERROR);
 			
 		} catch (NotFoundException e) {
-			return new ResponseEntity<Producto>(HttpStatus.NOT_FOUND);
+			return new ResponseEntity<Rubro>(HttpStatus.NOT_FOUND);
 			
 		}
 	}
 	
 	@RequestMapping(value = { "", "/" }, method = RequestMethod.POST, produces = "application/json")
-	public ResponseEntity<Object> add(@RequestBody Producto producto){
+	public ResponseEntity<Object> add(@RequestBody Rubro rubro){
 		
 		try {
-			productoBusiness.add(producto);
+			rubroBusiness.add(rubro);
 			HttpHeaders responseHeaders =  new HttpHeaders();
-			responseHeaders.set("location", "/productos/" + producto.getIdProducto());
+			responseHeaders.set("location", "/productos/" + rubro.getIdRubro());
 			return new ResponseEntity<Object>(responseHeaders, HttpStatus.CREATED);
 		} catch (BusinessException e) {
 			return new ResponseEntity<Object>(HttpStatus.INTERNAL_SERVER_ERROR);
@@ -70,10 +70,10 @@ public class ProductosRESTController {
 	}
 	
 	@RequestMapping(value = { "", "/" }, method = RequestMethod.PUT, produces = "application/json")
-	public ResponseEntity<Object> update(@RequestBody Producto producto){
+	public ResponseEntity<Object> update(@RequestBody Rubro rubro){
 		
 		try {
-			productoBusiness.update(producto);
+			rubroBusiness.update(rubro);
 			
 			return new ResponseEntity<Object>(HttpStatus.OK);
 		} catch (BusinessException e) {
@@ -87,10 +87,10 @@ public class ProductosRESTController {
 	}
 	
 	@RequestMapping(value = {"", "/"}, method = RequestMethod.DELETE, produces = "application/json")
-	public ResponseEntity<Object> delete(@RequestBody Producto producto){
+	public ResponseEntity<Object> delete(@RequestBody Rubro rubro){
 		
 		try {
-			productoBusiness.delete(producto);
+			rubroBusiness.delete(rubro);
 			return new ResponseEntity<Object>(HttpStatus.OK);
 		} catch (BusinessException e) {
 			return new ResponseEntity<Object>(HttpStatus.INTERNAL_SERVER_ERROR);
@@ -103,15 +103,15 @@ public class ProductosRESTController {
 	}
 	
 	@RequestMapping(value = { "/q={part}" }, method = RequestMethod.GET, produces = "application/json")
-	public ResponseEntity<List<Producto>> search(@PathVariable("part") String part) {
+	public ResponseEntity<List<Rubro>> search(@PathVariable("part") String part) {
 
 		
 
 		try {
-			return new ResponseEntity<List<Producto>>( productoBusiness.search(part),HttpStatus.OK);
+			return new ResponseEntity<List<Rubro>>( rubroBusiness.search(part),HttpStatus.OK);
 		} catch (BusinessException e) {
 			
-			return new ResponseEntity<List<Producto>>(HttpStatus.INTERNAL_SERVER_ERROR);
+			return new ResponseEntity<List<Rubro>>(HttpStatus.INTERNAL_SERVER_ERROR);
 			
 		}
 

@@ -1,105 +1,82 @@
 package ar.edu.iua.ingweb3.business.impl;
 
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
+import java.util.Optional;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import ar.edu.iua.ingweb3.business.BusinessException;
 import ar.edu.iua.ingweb3.business.IProductoBusiness;
 import ar.edu.iua.ingweb3.model.Producto;
 import ar.edu.iua.ingweb3.model.exception.NotFoundException;
+import ar.edu.iua.ingweb3.model.persistance.ProductRepository;
 
 @Service
 public class ProductoBusiness implements IProductoBusiness {
 
-	private List<Producto> r = new ArrayList<Producto>();
+	@Autowired
+	ProductRepository productoDao;
 
 	public ProductoBusiness() {
-
-		r.add(new Producto(1, "Arroz", 41.50, true, new Date()));
-		r.add(new Producto(2, "Leche", 35, true, new Date()));
-		r.add(new Producto(3, "Cerveza", 49.50, true, null));
 
 	}
 
 	@Override
 	public List<Producto> getAll() throws BusinessException {
 		// TODO Auto-generated method stub
-		return r;
+		return productoDao.findAll();
 	}
 
 	@Override
 	public Producto getOne(int id) throws BusinessException, NotFoundException {
 
-		Producto pr = null;
-		for (Producto p : r) {
-			if (p.getId() == id) {
-				pr = p;
-				break;
-			}
+		Optional<Producto> producto = productoDao.findById(id);
 
-		}
+		if (producto.isPresent()) {
 
-		if (pr == null) {
+			return producto.get();
+		} else {
 			throw new NotFoundException();
 		}
-
-		return pr;
 	}
 
 	@Override
 	public Producto add(Producto producto) throws BusinessException {
 
-		r.add(producto);
-		return producto;
+		return productoDao.save(producto);
+
 	}
 
 	@Override
 	public Producto update(Producto producto) throws BusinessException, NotFoundException {
 
-		boolean found = false;
+		Optional<Producto> productoABuscar = productoDao.findById(producto.getIdProducto());
 
-		for (int t = 0; t < r.size(); t++) {
+		if (productoABuscar.isPresent()) {
 
-			Producto prod = r.get(t);
+			return productoDao.save(producto);
 
-			if (prod.getId() == producto.getId()) {
-				r.set(t, producto);
-				found = true;
-				break;
-			}
-		}
-
-		if (!found) {
+		} else {
 
 			throw new NotFoundException();
-
 		}
 
-		return producto;
 	}
 
 	@Override
 	public void delete(Producto producto) throws BusinessException, NotFoundException {
-		boolean found = false;
 
-		for (int t = 0; t < r.size(); t++) {
+		Optional<Producto> productoABuscar = productoDao.findById(producto.getIdProducto());
 
-			Producto prod = r.get(t);
+		if (productoABuscar.isPresent()) {
 
-			if (prod.getId() == producto.getId()) {
-				r.remove(t);
-				found = true;
-				break;
-			}
-		}
+			productoDao.delete(producto);
 
-		if (!found) {
+		} else {
 
 			throw new NotFoundException();
-
 		}
 
 	}
@@ -109,7 +86,7 @@ public class ProductoBusiness implements IProductoBusiness {
 
 		List<Producto> resultado = new ArrayList<Producto>();
 
-		for (Producto p : r) {
+		for (Producto p : productoDao.findAll()) {
 			if (p.getDescripcion().toLowerCase().indexOf(part.toLowerCase()) != -1) {
 
 				resultado.add(p);
