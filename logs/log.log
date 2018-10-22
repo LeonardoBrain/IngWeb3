@@ -1,0 +1,812 @@
+16-10-2018 14:21:18.932 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 14:21:18.938 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 14:21:19.017 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 14:21:26.998 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 14:21:27.812 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 9.633 seconds (JVM running for 10.72)
+16-10-2018 14:21:27.816 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-1)
+16-10-2018 14:21:27.817 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 14:22:54.821 o.s.w.s.m.s.DefaultHandlerExceptionResolver.handleTypeMismatch >> Failed to bind request element: org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "5.560bytes"
+16-10-2018 14:22:54.822 o.s.w.s.m.s.DefaultHandlerExceptionResolver.logException >> Resolved exception caused by Handler execution: org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "5.560bytes"
+16-10-2018 14:25:54.325 o.s.w.s.m.s.DefaultHandlerExceptionResolver.handleTypeMismatch >> Failed to bind request element: org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "5.560bytes"
+16-10-2018 14:25:54.325 o.s.w.s.m.s.DefaultHandlerExceptionResolver.logException >> Resolved exception caused by Handler execution: org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "5.560bytes"
+16-10-2018 14:25:56.803 o.s.w.s.m.s.DefaultHandlerExceptionResolver.handleTypeMismatch >> Failed to bind request element: org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "5.560bytes"
+16-10-2018 14:25:56.804 o.s.w.s.m.s.DefaultHandlerExceptionResolver.logException >> Resolved exception caused by Handler execution: org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "5.560bytes"
+16-10-2018 14:26:09.178 o.s.w.s.m.s.DefaultHandlerExceptionResolver.handleTypeMismatch >> Failed to bind request element: org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "5.560"
+16-10-2018 14:26:09.179 o.s.w.s.m.s.DefaultHandlerExceptionResolver.logException >> Resolved exception caused by Handler execution: org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "5.560"
+16-10-2018 14:27:32.820 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 14:27:32.821 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 14:27:32.821 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 14:27:34.163 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 14:27:34.409 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.654 seconds (JVM running for 377.317)
+16-10-2018 14:27:34.412 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-2)
+16-10-2018 14:27:34.413 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 14:29:33.511 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 14:29:33.512 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 14:29:33.512 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 14:29:34.704 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 14:29:34.957 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.47 seconds (JVM running for 497.865)
+16-10-2018 14:29:34.960 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-3)
+16-10-2018 14:29:34.960 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 14:37:16.488 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 14:37:16.488 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 14:37:16.488 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 14:37:17.751 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 14:37:17.973 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.519 seconds (JVM running for 960.881)
+16-10-2018 14:37:17.976 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-4)
+16-10-2018 14:37:17.976 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 14:57:09.172 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 14:57:09.173 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 14:57:09.173 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 14:57:10.153 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 14:57:10.334 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.187 seconds (JVM running for 2153.241)
+16-10-2018 14:57:10.336 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-5)
+16-10-2018 14:57:10.336 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 14:57:46.162 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 14:57:46.163 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 14:57:46.164 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 14:57:47.227 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 14:57:47.418 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.284 seconds (JVM running for 2190.325)
+16-10-2018 14:57:47.420 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-6)
+16-10-2018 14:57:47.420 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 14:58:13.215 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 14:58:13.216 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 14:58:13.216 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 14:58:14.412 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 14:58:14.649 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.452 seconds (JVM running for 2217.557)
+16-10-2018 14:58:14.652 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-7)
+16-10-2018 14:58:14.652 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 14:58:59.362 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 14:58:59.362 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 14:58:59.363 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 14:59:00.529 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 14:59:00.720 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.377 seconds (JVM running for 2263.628)
+16-10-2018 14:59:00.722 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-8)
+16-10-2018 14:59:00.723 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 14:59:40.632 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 14:59:40.632 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 14:59:40.632 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 14:59:41.689 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 14:59:41.880 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.267 seconds (JVM running for 2304.788)
+16-10-2018 14:59:41.883 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-9)
+16-10-2018 14:59:41.883 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 15:00:02.567 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:00:02.568 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:00:02.568 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:00:03.515 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:00:03.666 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.114 seconds (JVM running for 2326.574)
+16-10-2018 15:00:03.669 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-10)
+16-10-2018 15:00:03.669 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 15:00:25.431 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:00:25.431 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:00:25.431 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:00:26.381 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:00:26.404 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh >> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(long,long) mapped.
+16-10-2018 15:00:26.436 o.s.boot.SpringApplication.reportFailure >> Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(long,long) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1699) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:573) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_181]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(long,long) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.assertUniqueMethodMapping(AbstractHandlerMethodMapping.java:580) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:544) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:265) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:250) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684) ~[na:1.8.0_181]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:248) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:218) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:188) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:136) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1758) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1695) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	... 21 common frames omitted
+16-10-2018 15:01:25.063 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:01:25.063 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:01:25.064 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:01:25.921 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:01:25.927 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh >> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(java.lang.String) mapped.
+16-10-2018 15:01:25.962 o.s.boot.SpringApplication.reportFailure >> Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(java.lang.String) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1699) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:573) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_181]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(java.lang.String) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.assertUniqueMethodMapping(AbstractHandlerMethodMapping.java:580) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:544) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:265) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:250) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684) ~[na:1.8.0_181]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:248) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:218) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:188) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:136) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1758) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1695) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	... 21 common frames omitted
+16-10-2018 15:04:55.126 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:04:55.127 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:04:55.127 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:04:55.891 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:04:55.896 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh >> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long,java.lang.String)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(java.lang.String) mapped.
+16-10-2018 15:04:55.924 o.s.boot.SpringApplication.reportFailure >> Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long,java.lang.String)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(java.lang.String) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1699) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:573) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_181]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long,java.lang.String)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(java.lang.String) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.assertUniqueMethodMapping(AbstractHandlerMethodMapping.java:580) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:544) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:265) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:250) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684) ~[na:1.8.0_181]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:248) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:218) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:188) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:136) ~[spring-webmvc-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1758) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1695) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	... 21 common frames omitted
+16-10-2018 15:05:20.470 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 4449 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:05:20.474 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:05:20.487 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:05:27.680 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:05:27.770 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh >> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(java.lang.String)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long,java.lang.String) mapped.
+16-10-2018 15:05:27.852 o.s.boot.SpringApplication.reportFailure >> Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(java.lang.String)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long,java.lang.String) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1699)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:573)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'archivoRESTController' method 
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.listaMime(java.lang.String)
+to {[/archivos/ || /archivos],methods=[GET]}: There is already 'archivoRESTController' bean method
+public org.springframework.http.ResponseEntity<java.util.List<java.lang.String>> ar.edu.iua.ingweb3.web.services.ArchivoRESTController.lista(long,long,java.lang.String) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.assertUniqueMethodMapping(AbstractHandlerMethodMapping.java:580)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:544)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:250)
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:248)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:218)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:136)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1758)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1695)
+	... 21 common frames omitted
+16-10-2018 15:05:28.450 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:05:28.450 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:05:28.453 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:05:29.244 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:05:29.391 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.984 seconds (JVM running for 2652.299)
+16-10-2018 15:05:29.393 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-14)
+16-10-2018 15:05:29.394 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 15:05:34.257 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 3197 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:05:34.257 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:05:34.257 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:05:34.998 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:05:35.128 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.889 seconds (JVM running for 2658.036)
+16-10-2018 15:05:35.130 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> DataSource=HikariDataSource (HikariPool-15)
+16-10-2018 15:05:35.131 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$a417040f.run >> Los archivos se subiran en subidos
+16-10-2018 15:07:19.156 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 4650 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:07:19.158 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:07:19.164 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:07:28.681 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:07:29.620 o.s.b.d.a.OptionalLiveReloadServer.startServer >> Unable to start LiveReload server
+16-10-2018 15:07:29.753 o.a.catalina.core.StandardService.log >> Failed to start connector [Connector[HTTP/1.1-10000]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10000]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 18 common frames omitted
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018)
+	... 19 common frames omitted
+16-10-2018 15:07:29.789 o.s.b.d.LoggingFailureAnalysisReporter.report >> 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10000 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10000, or configure this application to listen on another port.
+
+16-10-2018 15:08:37.309 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 4761 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:08:37.312 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:08:37.317 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:08:47.256 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:08:48.270 o.s.b.d.a.OptionalLiveReloadServer.startServer >> Unable to start LiveReload server
+16-10-2018 15:08:48.479 o.a.catalina.core.StandardService.log >> Failed to start connector [Connector[HTTP/1.1-10000]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10000]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 18 common frames omitted
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018)
+	... 19 common frames omitted
+16-10-2018 15:08:48.516 o.s.b.d.LoggingFailureAnalysisReporter.report >> 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10000 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10000, or configure this application to listen on another port.
+
+16-10-2018 15:09:21.897 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 4837 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:09:21.903 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:09:21.914 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:09:28.190 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:09:28.843 o.s.b.d.a.OptionalLiveReloadServer.startServer >> Unable to start LiveReload server
+16-10-2018 15:09:28.986 o.a.catalina.core.StandardService.log >> Failed to start connector [Connector[HTTP/1.1-10000]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10000]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 18 common frames omitted
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018)
+	... 19 common frames omitted
+16-10-2018 15:09:29.018 o.s.b.d.LoggingFailureAnalysisReporter.report >> 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10000 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10000, or configure this application to listen on another port.
+
+16-10-2018 15:10:25.155 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 4903 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:10:25.156 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:10:25.158 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:10:31.337 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:10:31.970 o.s.b.d.a.OptionalLiveReloadServer.startServer >> Unable to start LiveReload server
+16-10-2018 15:10:32.083 o.a.catalina.core.StandardService.log >> Failed to start connector [Connector[HTTP/1.1-10000]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-10000]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 18 common frames omitted
+Caused by: java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018)
+	... 19 common frames omitted
+16-10-2018 15:10:32.103 o.s.b.d.LoggingFailureAnalysisReporter.report >> 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 10000 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 10000, or configure this application to listen on another port.
+
+16-10-2018 15:14:24.878 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:14:24.881 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:14:24.883 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:14:31.719 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:14:32.343 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 7.878 seconds (JVM running for 8.858)
+16-10-2018 15:14:32.349 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-1)
+16-10-2018 15:14:32.350 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:16:15.325 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:16:15.325 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:16:15.326 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:16:16.930 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:16:17.282 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.987 seconds (JVM running for 113.798)
+16-10-2018 15:16:17.285 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-2)
+16-10-2018 15:16:17.285 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:17:20.595 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:17:20.595 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:17:20.596 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:17:21.889 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:17:22.140 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.572 seconds (JVM running for 178.656)
+16-10-2018 15:17:22.143 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-3)
+16-10-2018 15:17:22.143 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:17:58.928 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:17:58.929 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:17:58.929 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:18:00.035 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:18:00.245 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.339 seconds (JVM running for 216.761)
+16-10-2018 15:18:00.248 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-4)
+16-10-2018 15:18:00.255 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:23:22.564 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:23:22.564 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:23:22.564 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:23:23.777 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:23:23.965 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.433 seconds (JVM running for 540.481)
+16-10-2018 15:23:23.968 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-5)
+16-10-2018 15:23:23.968 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:23:52.771 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:23:52.779 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:23:52.780 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:23:54.099 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:23:54.304 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.572 seconds (JVM running for 570.82)
+16-10-2018 15:23:54.307 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-6)
+16-10-2018 15:23:54.307 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:27:27.671 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:27:27.672 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:27:27.672 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:27:28.571 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh >> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'archivoRESTController' defined in file [/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes/ar/edu/iua/ingweb3/web/services/ArchivoRESTController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [ar.edu.iua.ingweb3.web.services.ArchivoRESTController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "}", delete this token
+
+16-10-2018 15:27:28.616 o.s.boot.SpringApplication.reportFailure >> Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'archivoRESTController' defined in file [/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes/ar/edu/iua/ingweb3/web/services/ArchivoRESTController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [ar.edu.iua.ingweb3.web.services.ArchivoRESTController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1229) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1128) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:535) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_181]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [ar.edu.iua.ingweb3.web.services.ArchivoRESTController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:182) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1221) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "}", delete this token
+
+	at ar.edu.iua.ingweb3.web.services.ArchivoRESTController.<init>(ArchivoRESTController.java:165) ~[classes/:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_181]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_181]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:170) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	... 24 common frames omitted
+16-10-2018 15:28:26.249 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:28:26.249 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:28:26.249 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:28:27.183 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh >> Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'archivoRESTController' defined in file [/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes/ar/edu/iua/ingweb3/web/services/ArchivoRESTController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [ar.edu.iua.ingweb3.web.services.ArchivoRESTController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "}", delete this token
+
+16-10-2018 15:28:27.201 o.s.boot.SpringApplication.reportFailure >> Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'archivoRESTController' defined in file [/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes/ar/edu/iua/ingweb3/web/services/ArchivoRESTController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [ar.edu.iua.ingweb3.web.services.ArchivoRESTController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1229) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1128) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:535) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:398) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:330) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1258) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+	at ar.edu.iua.ingweb3.Ingweb3Application.main(Ingweb3Application.java:26) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_181]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.0.4.RELEASE.jar:2.0.4.RELEASE]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [ar.edu.iua.ingweb3.web.services.ArchivoRESTController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:182) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1221) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "}", delete this token
+
+	at ar.edu.iua.ingweb3.web.services.ArchivoRESTController.<init>(ArchivoRESTController.java:165) ~[classes/:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_181]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_181]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:170) ~[spring-beans-5.0.8.RELEASE.jar:5.0.8.RELEASE]
+	... 24 common frames omitted
+16-10-2018 15:28:53.780 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:28:53.788 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:28:53.792 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:28:54.847 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:28:55.064 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.352 seconds (JVM running for 871.58)
+16-10-2018 15:28:55.066 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-9)
+16-10-2018 15:28:55.067 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:29:27.795 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:29:27.795 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:29:27.796 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:29:28.747 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:29:28.958 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.18 seconds (JVM running for 905.474)
+16-10-2018 15:29:28.965 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-10)
+16-10-2018 15:29:28.965 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:31:13.034 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:31:13.034 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:31:13.034 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:31:13.981 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:31:14.240 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.221 seconds (JVM running for 1010.756)
+16-10-2018 15:31:14.244 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-11)
+16-10-2018 15:31:14.244 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:32:06.064 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:32:06.064 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:32:06.065 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:32:07.037 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:32:07.247 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.209 seconds (JVM running for 1063.763)
+16-10-2018 15:32:07.249 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-12)
+16-10-2018 15:32:07.250 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:32:15.978 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:32:15.978 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:32:15.978 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:32:16.798 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:32:16.947 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.984 seconds (JVM running for 1073.462)
+16-10-2018 15:32:16.949 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-13)
+16-10-2018 15:32:16.949 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:32:35.737 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:32:35.738 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:32:35.739 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:32:36.585 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:32:36.762 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.047 seconds (JVM running for 1093.277)
+16-10-2018 15:32:36.764 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-14)
+16-10-2018 15:32:36.764 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:33:19.619 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:33:19.620 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:33:19.620 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:33:20.416 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:33:20.570 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.965 seconds (JVM running for 1137.085)
+16-10-2018 15:33:20.572 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-15)
+16-10-2018 15:33:20.572 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:34:25.555 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:34:25.556 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:34:25.556 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:34:26.338 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:34:26.501 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.962 seconds (JVM running for 1203.016)
+16-10-2018 15:34:26.503 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-16)
+16-10-2018 15:34:26.504 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:35:22.573 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:35:22.574 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:35:22.575 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:35:23.359 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:35:23.483 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.926 seconds (JVM running for 1259.999)
+16-10-2018 15:35:23.485 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-17)
+16-10-2018 15:35:23.485 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:36:01.477 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:36:01.477 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:36:01.478 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:36:02.147 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:36:02.339 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.876 seconds (JVM running for 1298.855)
+16-10-2018 15:36:02.342 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-18)
+16-10-2018 15:36:02.342 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:36:52.279 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:36:52.279 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:36:52.279 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:36:53.176 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:36:53.372 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.105 seconds (JVM running for 1349.888)
+16-10-2018 15:36:53.375 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-19)
+16-10-2018 15:36:53.375 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:46:15.406 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:46:15.407 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:46:15.407 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:46:16.050 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:46:16.189 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.799 seconds (JVM running for 1912.704)
+16-10-2018 15:46:16.191 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-20)
+16-10-2018 15:46:16.191 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:46:32.144 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:46:32.144 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:46:32.144 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:46:32.774 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:46:32.886 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.756 seconds (JVM running for 1929.401)
+16-10-2018 15:46:32.888 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-21)
+16-10-2018 15:46:32.889 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:46:41.695 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:46:41.695 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:46:41.695 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:46:42.366 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:46:42.481 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.803 seconds (JVM running for 1938.997)
+16-10-2018 15:46:42.483 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-22)
+16-10-2018 15:46:42.483 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:46:55.875 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:46:55.875 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:46:55.875 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:46:56.743 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:46:56.981 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 1.143 seconds (JVM running for 1953.497)
+16-10-2018 15:46:56.984 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-23)
+16-10-2018 15:46:56.984 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:47:03.775 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:47:03.775 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:47:03.776 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:47:04.473 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:47:04.631 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.875 seconds (JVM running for 1961.147)
+16-10-2018 15:47:04.633 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-24)
+16-10-2018 15:47:04.634 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:49:41.048 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:49:41.048 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:49:41.048 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:49:41.695 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:49:41.833 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.799 seconds (JVM running for 2118.349)
+16-10-2018 15:49:41.835 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-25)
+16-10-2018 15:49:41.835 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:54:18.777 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:54:18.777 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:54:18.778 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:54:19.540 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:54:19.706 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.944 seconds (JVM running for 2396.222)
+16-10-2018 15:54:19.708 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-26)
+16-10-2018 15:54:19.708 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:54:40.534 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:54:40.535 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:54:40.535 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:54:41.286 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:54:41.426 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.906 seconds (JVM running for 2417.941)
+16-10-2018 15:54:41.428 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-27)
+16-10-2018 15:54:41.428 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:55:35.561 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:55:35.561 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:55:35.561 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:55:36.319 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:55:36.453 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.906 seconds (JVM running for 2472.969)
+16-10-2018 15:55:36.455 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-28)
+16-10-2018 15:55:36.455 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 15:55:47.334 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 5304 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 15:55:47.335 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 15:55:47.335 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 15:55:47.946 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 15:55:48.064 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 0.741 seconds (JVM running for 2484.58)
+16-10-2018 15:55:48.066 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> DataSource=HikariDataSource (HikariPool-29)
+16-10-2018 15:55:48.066 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$531ab57e.run >> Los archivos se subiran en subidos
+16-10-2018 17:53:38.047 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Starting Ingweb3Application on leonardo-K501UX with PID 17832 (/home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3/target/classes started by leonardo in /home/leonardo/Documents/ingenieriaWebIII/ingweb3-workspace/ingweb3)
+16-10-2018 17:53:38.049 a.edu.iua.ingweb3.Ingweb3Application.logStarting >> Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+16-10-2018 17:53:38.053 a.edu.iua.ingweb3.Ingweb3Application.logStartupProfileInfo >> No active profile set, falling back to default profiles: default
+16-10-2018 17:53:49.783 o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor >> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+16-10-2018 17:53:51.947 a.edu.iua.ingweb3.Ingweb3Application.logStarted >> Started Ingweb3Application in 14.601 seconds (JVM running for 15.773)
+16-10-2018 17:53:51.954 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$5ab9f9bf.run >> DataSource=HikariDataSource (HikariPool-1)
+16-10-2018 17:53:51.961 a.e.i.i.Ingweb3Application$$EnhancerBySpringCGLIB$$5ab9f9bf.run >> Los archivos se subiran en subidos

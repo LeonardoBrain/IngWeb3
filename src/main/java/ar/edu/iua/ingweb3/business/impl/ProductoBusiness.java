@@ -22,6 +22,7 @@ public class ProductoBusiness implements IProductoBusiness {
 	public ProductoBusiness() {
 
 	}
+	
 
 	@Override
 	public List<Producto> getAll() throws BusinessException {

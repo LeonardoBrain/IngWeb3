@@ -60,7 +60,7 @@ public class RubrosRESTController {
 		try {
 			rubroBusiness.add(rubro);
 			HttpHeaders responseHeaders =  new HttpHeaders();
-			responseHeaders.set("location", "/productos/" + rubro.getIdRubro());
+			responseHeaders.set("location", "/rubros/" + rubro.getIdRubro());
 			return new ResponseEntity<Object>(responseHeaders, HttpStatus.CREATED);
 		} catch (BusinessException e) {
 			return new ResponseEntity<Object>(HttpStatus.INTERNAL_SERVER_ERROR);

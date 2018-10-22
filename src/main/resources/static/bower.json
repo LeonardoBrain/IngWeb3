@@ -1,0 +1,7 @@
+{
+	"name": "ingenieria-web-3",
+	"version": "0.0.1-SNAPSHOT",
+	"dependencies": {
+		"angular": "~1.7.0"
+	}
+}
